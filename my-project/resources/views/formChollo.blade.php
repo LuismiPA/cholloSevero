@@ -41,8 +41,8 @@
         
         <div class="form-group col-md-6"><input type="file" name="imagen" id="imagen" placeholder="Imagen del chollo" class="form-control">
             <select name="disponible" id="disponible" class=" form-control">
-                <option value="true">Disponible</option>
-                <option value="false">No Disponible</option>
+                <option value="0">Disponible</option>
+                <option value="1">No Disponible</option>
             </select>
         </div>
 
